@@ -1,0 +1,12 @@
+# Yerel ayarlar
+.env
+.env.*
+!.env.example
+*.local
+
+# İşletim sistemi ve geçici dosyalar
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
